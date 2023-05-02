@@ -1,0 +1,52 @@
+.container2 {
+    justify-content: center;
+    display: flex;
+}
+
+.conteudo2 {
+    display: flex;
+    background-color: #09090b;
+    border: 2px solid #101013;
+    padding: 24px;
+    border-radius: 4px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Foto_Teteu {
+    border-radius: 5px;
+    height: 400px;
+}
+
+.texto2 {
+    padding-left: 45px;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.texto2 h2 {
+    color: #4912B8;
+    font-size: xx-large;
+}
+
+.redes  {
+    display: flex;    
+    justify-content: space-around;
+    padding-top: 20px;
+}
+
+.redes img {
+    background-color: #09090b;
+    border: 2px solid #101013;
+    border-radius: 6px;
+    padding: 16px;
+    height: 70px;
+}
+
+.redes img:hover {
+    background-color: #09090b;
+    border: 2px solid #4912B8;
+    cursor: pointer;
+}
