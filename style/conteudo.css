@@ -1,6 +1,6 @@
 .conteudo {
     display: flex;
-    height: 41vw;
+    height: 58rem;
     align-items: center;
     justify-content: center;
     color: white;
@@ -16,13 +16,13 @@
 }
 
 .texto h1 {
-    font-size: 3rem;
+    font-size: 3em;
     font-weight: 400;
     line-height: 140%;
 }
 
 .texto p {
-    font-size: 1.5rem;
+    font-size: 1.5em;
     font-weight: 300;
     line-height: 160%;
 }
