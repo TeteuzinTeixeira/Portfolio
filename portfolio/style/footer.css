@@ -1,0 +1,25 @@
+* {
+    text-decoration: none;
+}
+
+footer {
+    display: flex;
+    align-items: end;
+    justify-content: space-around;
+    margin-bottom: 5px;
+    width: 95vw;
+}
+
+footer img {
+    height: 30px;
+}
+
+footer div {
+    display: flex;
+}
+
+.contato_footer {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
