@@ -29,19 +29,19 @@
 
 .texto a{
     display: flex;
-    background-color: #4912B8;
+    background-color: #7D5AFE;
     text-decoration: none;
     padding: 20px 32px;
     max-width: 250px;
     align-items: center;
     justify-content: center;
     border-radius: 4px;
-    border: 1px solid #4912B8;
+    border: 1px solid #7D5AFE;
 }
 
 .texto a:hover {
     background-color: transparent;
-    border: 1px solid #4912B8;
+    border: 1px solid #7D5AFE;
 }
 
 .logo_conteudo {

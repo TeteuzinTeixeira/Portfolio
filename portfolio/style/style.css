@@ -7,11 +7,11 @@
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: #4912B8;
+    background-color: #7D5AFE;
     border-radius: 5px;
 }
 
 *::selection {
-    background-color: #4912b87c;
+    background-color: #7D5AFE7c;
     color: white;
 }

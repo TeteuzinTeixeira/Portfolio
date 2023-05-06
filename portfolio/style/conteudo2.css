@@ -27,7 +27,7 @@
 }
 
 .texto2 h2 {
-    color: #4912B8;
+    color: #7D5AFE;
     font-size: xx-large;
 }
 
@@ -47,6 +47,6 @@
 
 .redes img:hover {
     background-color: #09090b;
-    border: 2px solid #4912B8;
+    border: 2px solid #7D5AFE;
     cursor: pointer;
 }
