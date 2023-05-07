@@ -1,4 +1,8 @@
 @media screen and (max-width:1440px) {
+    header {
+        width: 100%;
+    }
+    
     .conteudo {
         height: 54rem;
     }
