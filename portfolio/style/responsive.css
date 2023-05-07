@@ -1249,15 +1249,7 @@
 
 @media screen and (max-width:525px) {
     header {
-        background-color: black;
-        display: flex;
-        flex-direction: column;
-        width: 100vw;
-        align-items: center;
-        border-bottom: 1px solid rgba(192, 192, 192, 0.075);
-        z-index: 100;
-        position: fixed;
-        font-size: small;
+        font-size: 0.8rem;
     }
     
     .logo{
