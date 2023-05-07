@@ -57,7 +57,7 @@ main {
 .habilidade_background2_HTML {
     height: 7px;
     width: 95%;
-    background-color: #E44D26;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.87), #632111, #E44D26);
 }
 
 .habilidade_background_CSS {
@@ -70,7 +70,7 @@ main {
 .habilidade_background2_CSS {
     height: 7px;
     width: 90%;
-    background-color: #0277BD;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.87), #01273D, #0277BD);
 }
 
 .habilidade_background_GIT {
@@ -83,7 +83,7 @@ main {
 .habilidade_background2_GIT {
     height: 7px;
     width: 85%;
-    background-color: #F4511E;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.87), #75260E, #F4511E);
 }
 
 .habilidade_background_GitHub {
@@ -96,7 +96,7 @@ main {
 .habilidade_background2_GitHub {
     height: 7px;
     width: 85%;
-    background-color: #7D5AFE;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.87), #3F2D80, #7D5AFE);
 }
 
 .habilidade_background_C {
@@ -108,8 +108,8 @@ main {
 
 .habilidade_background2_C {
     height: 7px;
-    width: 45%;
-    background-color: #0086d4;
+    width: 45%;    
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.87), #00549d,  #0086d4, #0075c0);
 }
 
 .habilidade_background_python {
@@ -122,7 +122,7 @@ main {
 .habilidade_background2_python {
     height: 7px;
     width: 45%;
-    background-color: #0277bd;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.87), #0277bd, #ffc107);
 }
 
 .habilidade_background_javascript {
@@ -135,7 +135,7 @@ main {
 .habilidade_background2_javascript {
     height: 7px;
     width: 25%;
-    background-color: #ffd600;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.87), #806A00, #ffd600);
 }
 
 .habilidade_background_PHP {
@@ -148,5 +148,5 @@ main {
 .habilidade_background2_PHP {
     height: 7px;
     width: 25%;
-    background-color: #8b75a1;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.87), #8b75a1, #dcd5f2);
 }
