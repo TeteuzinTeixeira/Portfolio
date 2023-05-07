@@ -6,8 +6,8 @@ footer {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    margin: 10px;
-    width: 95vw;
+    margin-top: 10px;
+    width: 100%;
     border-top: 1px solid rgba(192, 192, 192, 0.075);
     height: 4rem;
 }
