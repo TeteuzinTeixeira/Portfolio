@@ -15,3 +15,8 @@
     background-color: #7D5AFE7c;
     color: white;
 }
+
+html{
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
